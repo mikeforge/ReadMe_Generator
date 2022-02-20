@@ -33,7 +33,7 @@ const questions = () => {
         type: 'list',
         name: 'License',
         message: 'What are the licenses required for this project?',
-        choices: ['MIT', 'GNU', 'Apache-2.0'],
+        choices: ['MIT', 'GPL', 'Apache'],
         default: ["MIT"],
       },
       {

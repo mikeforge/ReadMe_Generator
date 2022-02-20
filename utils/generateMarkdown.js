@@ -21,7 +21,7 @@ function renderLicenseLink(license) {
   if (license === "Apache") {
     return "https://opensource.org/licenses/Apache-2.0";
   }
-  if (license === "GNU") {
+  if (license === "GPL") {
     return "https://opensource.org/licenses/GPL-3.0";
   }
   else {
