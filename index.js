@@ -1,6 +1,7 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
+const generateMarkdown = require('./utils/generateMarkdown')
 
 // TODO: Create an array of questions for user input
 // const questions = [];
@@ -29,10 +30,10 @@ const questions = () => {
         message: 'What are the steps to install your project?',
       },
       {
-        type: 'input',
+        type: 'list',
         name: 'License',
         message: 'What are the licenses required for this project?',
-        choices: ['MIT', 'GNU'],
+        choices: ['MIT', 'GNU', 'Apache-2.0'],
         default: ["MIT"],
       },
       {
