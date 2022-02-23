@@ -7,7 +7,7 @@
     npm i to initially install all dependencies
   # Usage Instructions
     Intention of the app is to lessen the time creating README files 
-    [See demo]('link to video here')
+    [See demo]('https://drive.google.com/file/d/1rIrRcOa6YVBzg7V5DoYW2LuPX0W9JNqs/view')
   # Contribution parameters 
     Be kind and follow standard protocol 
   # Tests
