@@ -1,15 +1,15 @@
 
   # Title
-    title 1
+    README.md Generator
   # Description
-    number 2 
+    This is an application to easily generate a README.md file 
   # Installation Instructions
-    number 4
+    npm i to initially install all dependencies
   # Usage Instructions
-    number 3 
+    Intention of the app is to lessen the time creating README files 
     [See demo]('link to video here')
   # Contribution parameters 
-    be kind 
+    Be kind and follow standard protocol 
   # Tests
     undefined
   # License
